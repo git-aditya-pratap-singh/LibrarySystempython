@@ -1,4 +1,4 @@
-# 🙏👍👨‍💼LibrarySystempython👨‍🎓
+# 🙏👍👨‍💼Library Management System (with Python)👨‍🎓
 ## 👨‍💼My Projects shown on below : -
 
 ![Screenshot (73)](https://user-images.githubusercontent.com/68802755/168081631-a2d567dc-6f92-427e-84dd-8fc1c9036a06.png)
